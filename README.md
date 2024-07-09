@@ -1,2 +1,2 @@
 # FlipperZero-Mod
-Unlocks Flipper Zero Mod
+Unlocks Flipper Zero Menu
